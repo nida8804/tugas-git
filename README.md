@@ -1,8 +1,5 @@
-\# Biodata 
-
-Nama: Nida
-
-Asal: Garut 
-
-Hobi: Mendengar lagu
-
+# bIODATA
+NAMA: NIDA
+KELAS: XI RPL 2
+HOBI: MENDENGAR LAGU
+CITA-CITA: JADI PROGRAMMER
